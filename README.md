@@ -1,11 +1,6 @@
 # POLICY EVALUATION
-To code a python program to evaluate two policies and find which is the best policy.
 ## AIM
-1.Import the required packages.
-2.Create a policy.
-3.Function to evaluate the policies.
-4.Evaluate the policies.
-5.Compare the policy and return the best policy.
+To code a python program to evaluate two policies and find which is the best policy.
 ## PROBLEM STATEMENT
 Explain the problem statement.
 
