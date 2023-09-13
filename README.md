@@ -2,8 +2,7 @@
 ## AIM
 To code a python program to evaluate two policies and find which is the best policy.
 ## PROBLEM STATEMENT
-Explain the problem statement.
-
+Slippery walk five MDP.
 ## POLICY EVALUATION FUNCTION
 ### Policy 1:
 ```
